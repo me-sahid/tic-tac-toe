@@ -43,6 +43,7 @@ button{
     font-family: "Finger Paint", sans-serif;
     color: var(--whiteGame);
     margin-top: 50px;
+    margin-left: 62px;
 
 }
 
@@ -65,8 +66,8 @@ h1{
 }
 
 .box{
-    height: 150px;
-    width: 150px;
+    height: 115px;  /*If some issue happen turn width and height to 150px*/
+    width: 115px;
     display: flex;
     justify-content: center;
     align-items: center;
